@@ -2,14 +2,7 @@
 
 > A modular, decoupled Retrieval-Augmented Generation (RAG) application built with LangChain, LangServe, FastAPI, and Gradio. 
 
-**Clarify** is an AI document assistant designed with a "Smart Backend / Orchestrating Frontend" architecture. It allows users to upload PDF documents, live-update a FAISS vector database, and ask context-aware questions powered by Google's Gemini models to instantly extract clarity from complex data.
-
-
-
-## 🏗️ Architecture Overview
-... (Keep the rest of your README exactly the same!) ...
-
-
+**Clarify** is an AI document assistant designed with a "Smart Backend / Orchestrating Frontend" architecture. It allows users to upload PDF documents, live-update a FAISS vector database, and ask context-aware questions powered by Google's Gemini models to extract clarity from complex data instantly.
 
 ## 🏗️ Architecture Overview
 
